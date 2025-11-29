@@ -1,0 +1,3 @@
+[submodule "NikuCommerceConfigutation"]
+	path = NikuCommerceConfigutation
+	url = https://github.com/NikuUniversity/NikuCommerceConfigutation.git
